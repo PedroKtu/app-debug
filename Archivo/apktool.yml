@@ -1,0 +1,38 @@
+version: 2.11.1
+apkFileName: 251113 fsysapp.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 23
+  targetSdkVersion: 35
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 1
+  versionName: 1.0
+sharedLibrary: false
+sparseResources: false
+compactEntries: false
+doNotCompress:
+- arsc
+- png
+- commonMain/default/linkdata/package_androidx/0_androidx.knm
+- commonMain/default/linkdata/root_package/0_.knm
+- linuxMain/default/linkdata/package_androidx.collection/0_collection.knm
+- linuxMain/default/linkdata/package_androidx/0_androidx.knm
+- linuxMain/default/linkdata/root_package/0_.knm
+- nativeMain/default/linkdata/package_androidx.collection/0_collection.knm
+- nativeMain/default/linkdata/package_androidx/0_androidx.knm
+- nativeMain/default/linkdata/root_package/0_.knm
+- nonJvmMain/default/linkdata/package_androidx/0_androidx.knm
+- nonJvmMain/default/linkdata/root_package/0_.knm
+- unixMain/default/linkdata/package_androidx.collection/0_collection.knm
+- unixMain/default/linkdata/package_androidx/0_androidx.knm
+- unixMain/default/linkdata/root_package/0_.knm
+- webMain/default/linkdata/package_androidx.collection/0_collection.knm
+- webMain/default/linkdata/package_androidx/0_androidx.knm
+- webMain/default/linkdata/root_package/0_.knm
